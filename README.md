@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://ganesh-protfolio-react-k5fte9i4c-ganeshbehera012.vercel.app/](https://ganesh-protfolio-react-k5fte9i4c-ganeshbehera012.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ganeshbehera.vercel.app/](https://ganesh-protfolio-react-k5fte9i4c-ganeshbehera012.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
